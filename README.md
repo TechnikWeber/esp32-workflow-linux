@@ -1318,3 +1318,7 @@ GitHub akzeptiert keine Kontopasswörter. `gh auth login` ausführen
 Häufig der Virenscanner (Build-Ordner und Toolchain als Ausnahme
 eintragen) oder ein Projekt auf einem Netzlaufwerk bzw. in einem
 Cloud-Sync-Ordner — Projekte gehören auf die lokale Platte.
+
+## Lizenz
+
+[MIT](LICENSE).
